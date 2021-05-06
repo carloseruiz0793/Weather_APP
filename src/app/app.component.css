@@ -1,0 +1,58 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    background-image: url("https://thumbs.dreamstime.com/z/panoramic-el-poblado-medellin-city-205212074.jpg");
+  
+    /* Half height */
+    height: 50%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  body, html {
+    height: 100%;
+  }
+  .bg2 {
+    /* The image used */
+    background-image: url("https://image.freepik.com/vector-gratis/widget-clima-realista_1284-4092.jpg");
+  
+    /* Half height */
+    height: 50%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  body, html {
+    height: 100%;
+  }
+  .bg3 {
+    /* The image used */
+    background-image: url("https://image.freepik.com/foto-gratis/paisaje-urbano-medellin-colombia_262668-54.jpg");
+  
+    /* Half height */
+    height: 50%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .text-align-center {
+    align-items: center;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    width: auto;
+  
+    color: white;
+   }
+
